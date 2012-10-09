@@ -1,0 +1,11 @@
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+----Unit Testing----
+This can be run by calling a specific target in makefile in the up-directory.
+
+please, be noted that the testing is done using the file generated in
+"solutions-output" subdirectory, so if you want to test another output file
+please, make sure of the file's path.
+
+the testing checkes the size of the board given by the user
+if this size out range of 2-18 inclusive, the test failed.
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ

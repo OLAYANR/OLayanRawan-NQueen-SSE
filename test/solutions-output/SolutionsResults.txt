@@ -1,0 +1,83 @@
+./nqueen 5  
+N Queens program by Jeff Somers.
+	allagash98@yahoo.com or jsomers@alumni.williams.edu
+Start: 	 Tue Oct  9 13:59:34 2012
+*** Solution #: 1 ***
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+. . . Q . 
+
+*** Solution #: 2 ***
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+
+*** Solution #: 3 ***
+Q . . . . 
+. . . Q . 
+. Q . . . 
+. . . . Q 
+. . Q . . 
+
+*** Solution #: 4 ***
+. . . . Q 
+. Q . . . 
+. . . Q . 
+Q . . . . 
+. . Q . . 
+
+*** Solution #: 5 ***
+. Q . . . 
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+
+*** Solution #: 6 ***
+. . . Q . 
+. Q . . . 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+
+*** Solution #: 7 ***
+. Q . . . 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+
+*** Solution #: 8 ***
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+
+*** Solution #: 9 ***
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+. . . . Q 
+
+*** Solution #: 10 ***
+. . Q . . 
+. . . . Q 
+. Q . . . 
+. . . Q . 
+Q . . . . 
+
+End: 	Tue Oct  9 13:59:34 2012
+Calculations took 0 seconds.
+For board size 5, 10 solutions found.
+if you want to save many files containing solutions for each trial:
+please type : make run N=10 >  ../N-Queen-Test/solutions-output/yourOutputFileName.txt
+then followed by gedit yourOutputFileName.txt --- or you can open solutions-output folder 
+if you want to test the correcness of files containing solutions for each trial :
+please type : make run N=10 >  ../N-Queen-Test/test/solutions-output/yourOutputFileName.txt
+this saves the solution output in ../N-Queen-Test/test/solutions-output for further verfication 
