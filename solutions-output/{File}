@@ -1,0 +1,76 @@
+N Queens program by Jeff Somers.
+	allagash98@yahoo.com or jsomers@alumni.williams.edu
+Start: 	 Tue Oct  9 12:54:26 2012
+*** Solution #: 1 ***
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+. . . Q . 
+
+*** Solution #: 2 ***
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+
+*** Solution #: 3 ***
+Q . . . . 
+. . . Q . 
+. Q . . . 
+. . . . Q 
+. . Q . . 
+
+*** Solution #: 4 ***
+. . . . Q 
+. Q . . . 
+. . . Q . 
+Q . . . . 
+. . Q . . 
+
+*** Solution #: 5 ***
+. Q . . . 
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+
+*** Solution #: 6 ***
+. . . Q . 
+. Q . . . 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+
+*** Solution #: 7 ***
+. Q . . . 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+
+*** Solution #: 8 ***
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+
+*** Solution #: 9 ***
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+. . . . Q 
+
+*** Solution #: 10 ***
+. . Q . . 
+. . . . Q 
+. Q . . . 
+. . . Q . 
+Q . . . . 
+
+End: 	Tue Oct  9 12:54:26 2012
+Calculations took 0 seconds.
+For board size 5, 10 solutions found.
